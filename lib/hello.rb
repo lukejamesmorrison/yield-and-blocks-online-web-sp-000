@@ -10,6 +10,7 @@ def hello_t(people)
     
     people
   else
+    puts 
   
 end
 
