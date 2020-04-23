@@ -10,7 +10,8 @@ def hello_t(people)
     
     people
   else
-    puts 
+    puts "Hey! No block was given!"
+  end
   
 end
 
