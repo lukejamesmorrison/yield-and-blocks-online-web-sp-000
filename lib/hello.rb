@@ -6,6 +6,8 @@ def hello_t(people)
     i += 1
   end
   
+  people
+  
 end
 
 # hello_t(["Tim", "Tom", "Jim"]) do |name|
